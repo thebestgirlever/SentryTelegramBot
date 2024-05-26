@@ -14,7 +14,7 @@ function App() {
         <img className='mn-pic' src={window.location.origin + mnPic} alt='telegram'></img>
         <div className='hd-content'>
           <img className='logo' src={window.location.origin + logot} alt="logo"></img>
-          <p className='hd-text'>SentryTelegramBot</p>
+          <p className='hd-text'>SentryTaaaaaaaelegramBot</p>
           <div className='hd-navigation'>How it Works</div>
           <button className='hd-button'><a className="hd-link" href='https://t.me/SentryTelegramBot' target="_blank" rel="noopener noreferrer">Open @SentryTelegramBot</a></button>
         </div>
