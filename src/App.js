@@ -1,12 +1,19 @@
 import './App.css';
+import React from 'react';
+import bg from './images/bg.png';
+import mnPic from './images/main.png';
+import logot from './images/logot.png';
+import instruction from './images/instruction.png'
+
 
 function App() {
   return (
     <div className='body'>
       <div className='sentry'>
-        <img className='mn-pic' src={process.env.PUBLIC_URL + "images/main.png"} alt='telegram'></img>
+      <img className='bg' src={window.location.origin + bg} alt='bg'></img>
+        <img className='mn-pic' src={window.location.origin + mnPic} alt='telegram'></img>
         <div className='hd-content'>
-          <img className='logo' src={process.env.PUBLIC_URL + "images/logo.png"} alt="logo" />
+          <img className='logo' src={window.location.origin + logot} alt="logo"></img>
           <p className='hd-text'>SentryTelegramBot</p>
           <div className='hd-navigation'>How it Works</div>
           <button className='hd-button'><a className="hd-link" href='https://t.me/SentryTelegramBot' target="_blank" rel="noopener noreferrer">Open @SentryTelegramBot</a></button>
@@ -35,7 +42,7 @@ function App() {
               <div className='step-title'>Step 3</div>
               <div className='step-block'>
                 <div className='step-text1'>Edit the Alert rule on page Alerts. Add a «Send notification via WebHooks» action as you can see on the image below</div>
-                <img className='instruction' src="images/instruction.png" alt="instructiom" />
+                <img className='instruction' src={window.location.origin + instruction} alt="instructiom" />
                 <div className='step-text2'>Try to send test notification. If all is well, repeat this for each project.</div>
               </div>
             </div>

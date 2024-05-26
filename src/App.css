@@ -1,11 +1,16 @@
 .body {
   background-color: #191A1B;
 }
+
+.bg {
+  position: absolute;
+  width: 1440px;
+}
 .sentry {
   width: 1440px;
-  height: 2181px;
   box-sizing: border-box;
   margin: auto;
+  padding-bottom: 25px;
 }
 
 .logo {
@@ -140,6 +145,7 @@
   line-height: 88px;
   letter-spacing: -2%;
   text-align: center;
+  padding-bottom: 48px;
 }
 
 .step {
