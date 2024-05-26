@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sentryTelegramBot/static/css/main.c502969c.css",
-    "main.js": "/sentryTelegramBot/static/js/main.79f147a2.js",
+    "main.css": "/sentryTelegramBot/static/css/main.f1ba5cda.css",
+    "main.js": "/sentryTelegramBot/static/js/main.fe9ae310.js",
     "static/js/453.ed3810f9.chunk.js": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js",
     "static/media/main.png": "/sentryTelegramBot/static/media/main.7e2f14ed7946de711929.png",
     "static/media/bg.png": "/sentryTelegramBot/static/media/bg.f41e2129da5f025d063a.png",
     "static/media/instruction.png": "/sentryTelegramBot/static/media/instruction.d3d11089a07bc9cd556b.png",
     "static/media/logot.png": "/sentryTelegramBot/static/media/logot.b7b762c606f7416ee5ad.png",
     "index.html": "/sentryTelegramBot/index.html",
-    "main.c502969c.css.map": "/sentryTelegramBot/static/css/main.c502969c.css.map",
-    "main.79f147a2.js.map": "/sentryTelegramBot/static/js/main.79f147a2.js.map",
+    "main.f1ba5cda.css.map": "/sentryTelegramBot/static/css/main.f1ba5cda.css.map",
+    "main.fe9ae310.js.map": "/sentryTelegramBot/static/js/main.fe9ae310.js.map",
     "453.ed3810f9.chunk.js.map": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c502969c.css",
-    "static/js/main.79f147a2.js"
+    "static/css/main.f1ba5cda.css",
+    "static/js/main.fe9ae310.js"
   ]
 }
