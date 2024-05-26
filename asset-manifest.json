@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sentryTelegramBot/static/css/main.f78f6226.css",
+    "main.js": "/sentryTelegramBot/static/js/main.429c3871.js",
+    "static/js/453.ed3810f9.chunk.js": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/sentryTelegramBot/index.html",
+    "main.f78f6226.css.map": "/sentryTelegramBot/static/css/main.f78f6226.css.map",
+    "main.429c3871.js.map": "/sentryTelegramBot/static/js/main.429c3871.js.map",
+    "453.ed3810f9.chunk.js.map": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78f6226.css",
+    "static/js/main.429c3871.js"
+  ]
+}
