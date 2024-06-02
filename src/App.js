@@ -50,7 +50,7 @@ function App() {
         </div>
         <div className='footer'>
           <div className='footer-text'>SentryTelegramBot ®</div>
-          <div className='footer-text'>Text me @renatabdusalamov</div>
+          <div className='footer-text'>Text me <a className='ft-link' href='https://t.me/RENATABDUSALAMOV' target="_blank" rel="noopener noreferrer">@renatabdusalamov</a></div>
         </div>
       </div>
     </div>
