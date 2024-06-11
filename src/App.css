@@ -286,11 +286,11 @@ button:active {
   }
 
   .mn-pic {
-    max-width: 1024px;
+    width: 1024px;
   }
 
   .bg {
-    max-width: 1024px;
+    width: 1024px;
   }
   .howItWorks {
     margin-top: 321px;
