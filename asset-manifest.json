@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sentryTelegramBot/static/css/main.03235af4.css",
+    "main.css": "/sentryTelegramBot/static/css/main.e26f3c9e.css",
     "main.js": "/sentryTelegramBot/static/js/main.d7af6ad6.js",
     "static/js/453.ed3810f9.chunk.js": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js",
     "static/media/main.png": "/sentryTelegramBot/static/media/main.7e2f14ed7946de711929.png",
@@ -8,12 +8,12 @@
     "static/media/instruction.png": "/sentryTelegramBot/static/media/instruction.d3d11089a07bc9cd556b.png",
     "static/media/logot.png": "/sentryTelegramBot/static/media/logot.b7b762c606f7416ee5ad.png",
     "index.html": "/sentryTelegramBot/index.html",
-    "main.03235af4.css.map": "/sentryTelegramBot/static/css/main.03235af4.css.map",
+    "main.e26f3c9e.css.map": "/sentryTelegramBot/static/css/main.e26f3c9e.css.map",
     "main.d7af6ad6.js.map": "/sentryTelegramBot/static/js/main.d7af6ad6.js.map",
     "453.ed3810f9.chunk.js.map": "/sentryTelegramBot/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03235af4.css",
+    "static/css/main.e26f3c9e.css",
     "static/js/main.d7af6ad6.js"
   ]
 }
